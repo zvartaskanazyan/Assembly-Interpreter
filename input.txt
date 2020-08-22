@@ -1,0 +1,6 @@
+assign dw R0 1234
+assign b R4 7
+load dw R6 R0
+load b R11 R4
+assign dw R12 2
+add dw R0 R12
